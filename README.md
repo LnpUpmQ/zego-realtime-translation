@@ -1,1 +1,1 @@
-# zego-realtime-translation@1.1.1
+# zego-realtime-translation-lib@1.1.1
